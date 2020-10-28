@@ -1,0 +1,12 @@
+C:\Users\DevBox\Desktop\NetCoreSAPB1-Connect\bin\Debug\netcoreapp3.1\NetCoreSAPB1-Connect.deps.json
+C:\Users\DevBox\Desktop\NetCoreSAPB1-Connect\bin\Debug\netcoreapp3.1\NetCoreSAPB1-Connect.dll
+C:\Users\DevBox\Desktop\NetCoreSAPB1-Connect\obj\Debug\netcoreapp3.1\NetCoreSAPB1-Connect.csprojAssemblyReference.cache
+C:\Users\DevBox\Desktop\NetCoreSAPB1-Connect\obj\Debug\netcoreapp3.1\Interop.SAPbobsCOM.dll
+C:\Users\DevBox\Desktop\NetCoreSAPB1-Connect\obj\Debug\netcoreapp3.1\NetCoreSAPB1-Connect.csproj.ResolveComReference.cache
+C:\Users\DevBox\Desktop\NetCoreSAPB1-Connect\obj\Debug\netcoreapp3.1\NetCoreSAPB1-Connect.AssemblyInfoInputs.cache
+C:\Users\DevBox\Desktop\NetCoreSAPB1-Connect\obj\Debug\netcoreapp3.1\NetCoreSAPB1-Connect.AssemblyInfo.cs
+C:\Users\DevBox\Desktop\NetCoreSAPB1-Connect\bin\Debug\netcoreapp3.1\NetCoreSAPB1-Connect.pdb
+C:\Users\DevBox\Desktop\NetCoreSAPB1-Connect\bin\Debug\netcoreapp3.1\Interop.SAPbobsCOM.dll
+C:\Users\DevBox\Desktop\NetCoreSAPB1-Connect\obj\Debug\netcoreapp3.1\NetCoreSAPB1-Connect.csproj.CoreCompileInputs.cache
+C:\Users\DevBox\Desktop\NetCoreSAPB1-Connect\obj\Debug\netcoreapp3.1\NetCoreSAPB1-Connect.dll
+C:\Users\DevBox\Desktop\NetCoreSAPB1-Connect\obj\Debug\netcoreapp3.1\NetCoreSAPB1-Connect.pdb
