@@ -26,7 +26,6 @@ private void button1_Click(object sender, EvenArgs e)
 </pre>
 
 <p>app.config example </p>
-<pre>
 <configuration>
 	<appSettings>
 		<add key="server" value="localhost"/>
@@ -38,6 +37,5 @@ private void button1_Click(object sender, EvenArgs e)
 		<add key="pass" value="1234"/>
 	</appSettings>
 </configuration>
-</pre>
 
 
