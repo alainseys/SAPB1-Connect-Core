@@ -27,7 +27,6 @@ private void button1_Click(object sender, EvenArgs e)
 
 <p>app.config example </p>
 <pre>
-<?xml version="1.0" encoding="utf-8" ?>
 <configuration>
 	<appSettings>
 		<add key="server" value="localhost"/>
