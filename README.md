@@ -2,7 +2,7 @@
 
 <p>This dll provides you acces to sap configuration settings like sql db , sap user ....</p>
 
-<p>Example Usage:</p>
+<p><b>Example Usage:</b></p>
 <p>First you need to add a nuget package (System.ConfigurationManager), then you need to add a app.config.xml file and add your settings (see app.config sample bellow).</p>
 
 <p>Winfom example</p>
